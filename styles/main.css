@@ -1,32 +1,37 @@
-@import url(http://fonts.googleapis.com/css?family=Lato:400,700,900);
+/*@import url(http://fonts.googleapis.com/css?family=Lato:400,700,900);*/
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700);
+@import url(http://fonts.googleapis.com/css?family=Corben);
 
 body {
-  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-family: 'Merriweather', Helvetica, Arial, sans-serif;
   font-weight: 400;
   background-color: rgba(0, 0, 0, 0.02);
 }
 
 .intro-text p {
   text-align: center;
-  font-family: 'Lato';
-  font-weight: 900;
+  font-family: 'Corben';
+  font-weight: 400;
   font-size: 2.77rem;
   color: #111;
 }
 
 h1, h2 {
-  font-family: 'Lato';
-  font-weight: 700;
+  font-family: 'Corben';
+  font-weight: 400;
 }
 
-.about, .people, .contact {
-  padding: 50px 0 0 0;
+.about {
+  padding: 3rem 0 0 0;
 }
 
-.about p {
-  font-style: italic;
-  font-size: 1.22rem;
+.about p, .about li {
+  font-size: 1.2rem;
   /*font-weight: bold;*/
+}
+
+ul {
+  margin-top: 0;
 }
 
 hr {
