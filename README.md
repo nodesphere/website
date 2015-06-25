@@ -8,4 +8,4 @@ Licenses:
 
 Build status: [![Circle CI](https://circleci.com/gh/nodesphere/website.svg?style=svg)](https://circleci.com/gh/nodesphere/website/tree/master)
 
-Existing collaborators wishing to edit content may like to use [prose.io](http://prose.io/#nodesphere/website/tree/master/src/content) or [github](https://github.com/nodesphere/website/tree/master/src/content).
+Existing collaborators wishing to edit content may like to use [github](https://github.com/nodesphere/website/tree/master/src/content).
