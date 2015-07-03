@@ -16,7 +16,7 @@ The core engine of Nodesphere is semantic crunching algorithm which reduces any 
 
 On top of this core engine, rest a rich ecosystem of open source adapters, allowing us to pull data from the API's of our most common collaboration tools. 
 
-Nodesphere is backed by permanent content addressable file systems like get gamma camera store, and interplanetary file system.
+Nodesphere is backed by permanent content addressable file systems like Camlistore, and interplanetary file system.
 
 ## Open Graph
 
