@@ -20,8 +20,6 @@ Nodesphere is backed by permanent content addressable file systems like Camlisto
 
 ## Open Graph
 
-Everything in Nodesphere is a graph, and graph databases
-
-- storage layer: interplanetary file system - permanent storage
-- Personal graph server: graph database - cash of data currently in use by an individual or organization
-- visualization layer: allows filtering sensemaking and visual navigation of data
+- Storage layer: interplanetary file system - permanent storage
+- Personal graph server: graph database - cache of data currently in use by an individual or organization
+- Visualization layer: allows filtering, sensemaking and visual navigation of data
