@@ -12,7 +12,7 @@ Nodesphere is a collection of isomorphic visualization-style interfaces. Each in
 
 Nodesphere uses semantic crunching technology, which reduces data inputs into their atomic semantic nodes. Regardless of the data source, the important knowledge is digested into a semantic graph, with appropriate connections between tags, categories, peoples' names, etc.
 
-# Plugin Ecosytem
+# Plugin Ecosystem
 
 Upon this foundation rests an ecosystem of open source adapters, allowing us to pull data from the API's of our most common social and collaboration tools.
 
@@ -24,11 +24,11 @@ Upon this foundation rests an ecosystem of open source adapters, allowing us to 
 
 # Data Ownership
 
-Nodesphere allows us to take back our data. Imagine working in a tight-knit core of half a dozen collaborators -- their work is spread through multiple software systems: perhaps Github, Trello, Twitter, and Slack. Nodesphere gives a single unified interface to make sense of all of the data agregated in realtime from multiple sources, and allows us to fluidly navigate to the original source application. Nodesphere does not want to take over our personal data, it wants to connect the data that is currently in a variety of silos, bringing it together into a single unified dashboard.
+Nodesphere allows us to take back our data. Imagine working in a tight-knit core of half a dozen collaborators -- their work is spread through multiple software systems: perhaps Github, Trello, Twitter, and Slack. Nodesphere gives a single unified interface to make sense of all of the data aggregated in realtime from multiple sources, and allows us to fluidly navigate to the original source application. Nodesphere does not want to take over our personal data, it wants to connect the data that is currently in a variety of silos, bringing it together into a single unified dashboard.
 
 # Project Status
 
-Nodesphere is in active developement, focussing on:
+Nodesphere is in active development, focussing on:
 
 - Multiple visualization interfaces
 - Morphing between visualizations
