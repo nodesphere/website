@@ -1,24 +1,26 @@
 # Visualization Dashboard
 
-Nodesphere is an ambitious project designed to connect all of the data sources that we care about into a single unified dashboard.
+Nodesphere is an ambitious project designed to connect the data sources that we care most about into a single unified dashboard:
+
+- Our social networks
+- Our curated collections
+- Our sensemaking information
 
 Nodesphere is a collection of isomorphic visualization-style interfaces. Each interface has particular strengths, so the user can switch between interfaces depending upon the data set and the desired interaction style.
 
 # Semantic Crunching
 
-The core engine of Nodesphere is a semantic crunching algorithm which reduces data inputs into their atomic semantic nodes. What this means is that regardless of the data source, the important data is in a semantic graph, with appropriate connections between tags, categories, peoples names etc.
+Nodesphere uses semantic crunching technology, which reduces data inputs into their atomic semantic nodes. Regardless of the data source, the important knowledge is digested into a semantic graph, with appropriate connections between tags, categories, peoples' names, etc.
 
 # Plugin Ecosytem
 
-On top of this core engine, rest a rich ecosystem of open source adapters, allowing us to pull data from the API's of our most common collaboration tools.
+Upon this foundation rests an ecosystem of open source adapters, allowing us to pull data from the API's of our most common social and collaboration tools.
 
-Nodesphere is backed by permanent content addressable file systems like Camlistore, and interplanetary file system.
+# Open Graph Stack
 
-# Open Graph
-
-- Storage layer: interplanetary file system - permanent storage
-- Personal graph server: graph database - cache of data currently in use by an individual or organization
-- Visualization layer: allows filtering, sensemaking and visual navigation of data
+- The primary interface will be through the **visualization** layer, which  allows filtering, sensemaking and visual navigation of all data _(technology: javascript visualization)_
+- Each individual or organization will have their own instance of a **graph server**, to store relationships between their most used data _(technology: graph database)_
+- All data may optionally be reflected to permanent **distributed storage** layers _(technology: InterPlanetary File System)_
 
 # Data Ownership
 
