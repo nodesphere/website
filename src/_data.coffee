@@ -1,4 +1,3 @@
-slug = require 'slug'
 # {p} = require 'lightsaber'
 
 data = {}
