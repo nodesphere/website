@@ -10,7 +10,7 @@ Nodesphere is a collection of isomorphic visualization-style interfaces. Each in
 
 # Semantic Crunching
 
-Nodesphere uses semantic crunching technology, which reduces data inputs into their atomic semantic nodes. Regardless of the data source, the important knowledge is digested into a semantic graph, with appropriate connections between tags, categories, peoples' names, etc.
+Nodesphere uses semantic crunching technology, which reduces data inputs into their atomic semantic nodes. Regardless of the data source, the important knowledge is digested into an interconnected graph, with appropriate connections between tags, categories, peoples' names, etc.
 
 # Plugin Ecosystem
 
