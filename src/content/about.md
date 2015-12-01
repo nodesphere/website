@@ -34,4 +34,4 @@ Nodesphere is in active development, focussing on:
 - Morphing between visualizations
 - Reading data from multiple backends, starting with IPFS
 
-Check out our open source projects at <https://github.com/nodesphere>.
+Check out our open source projects at <https://github.com/core-network> and our latest development board at <https://waffle.io/core-network/core-network>.
